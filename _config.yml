@@ -2,7 +2,6 @@ permalink: /:categories/:title.html
 
 safe: false
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
 paginate: 10
 encoding: utf-8
 markdown: redcarpet
@@ -115,6 +114,8 @@ JB :
   #
   sharing :
     provider : false
+
+gems: [jekyll-paginate]
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
