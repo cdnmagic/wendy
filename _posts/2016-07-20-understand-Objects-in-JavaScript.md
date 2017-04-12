@@ -171,7 +171,7 @@ alert(girl1.sayHello == girl2.sayHello);//true
 
 任何时候，只要创建了一个函数，该函数就会拥有 prototype 属性，该属性指向函数的原型对象。默认情况下，所有原型对象都自动获得一个 constructor 属性，该属性包含一个指向 prototype 属性所在函数的指针。恩，这句话有点绕，我们来看图说话：
 
-![图3-1](http://cdn.saymagic.cn/o_1ao96r6uocvj2hm1tdu1uso1p6p9.png)
+![图3-1](https://cdnmagic.github.io/pic/o_1ao96r6uocvj2hm1tdu1uso1p6p9.png)
 
 上图展示了示例代码中各个对象之间的关系。我们来稍作梳理：
 

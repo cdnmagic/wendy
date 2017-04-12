@@ -80,9 +80,9 @@ convertToUTF8 和 ColorPicker 快捷键会产生冲突，convertoUTF8 的默认�
 
 输入`/*`，`/**`然后回车或 Tab，还有很多用法，请参照 [https://sublime.wbond.net/packages/DocBlockr](https://sublime.wbond.net/packages/DocBlockr)
 
-![](http://cdn.saymagic.cn/o_19pa6lqk11amk1a13hjm1vr3a2q9.gif)
+![](https://cdnmagic.github.io/pic/o_19pa6lqk11amk1a13hjm1vr3a2q9.gif)
 
-![](http://cdn.saymagic.cn/o_19pa6n30v14n81pf91rnlc7kkme.gif)
+![](https://cdnmagic.github.io/pic/o_19pa6n30v14n81pf91rnlc7kkme.gif)
 
 ###7. Emmet
 编码快捷，前端必备
@@ -102,7 +102,7 @@ convertToUTF8 和 ColorPicker 快捷键会产生冲突，convertoUTF8 的默认�
     }
 
 如果路径对了，即可看到介绍中的图片，每行前边有个代表本行中的颜色点。
-![](http://cdn.saymagic.cn/o_19pbqgt0m190vbvl36rtacchh9.png)
+![](https://cdnmagic.github.io/pic/o_19pbqgt0m190vbvl36rtacchh9.png)
 配合 ColorPicker 插件，提高处理颜色效率。
 ###9. jQuery
 jQuery 提示。
@@ -142,7 +142,7 @@ jQuery 提示。
 
     {"JavaScript":{	"javascriptExtraPaths":[]}}
 
-效果如图：![](http://cdn.saymagic.cn/o_19pcgihmj9pb1e1d1gka11fmjt79.png)
+效果如图：![](https://cdnmagic.github.io/pic/o_19pcgihmj9pb1e1d1gka11fmjt79.png)
 ###13. Tag
 HTML格式化。
 ###14. TrailingSpaces
@@ -160,9 +160,9 @@ HTML格式化。
 Sublime 中，快捷键 `Ctrl+Shift+[` 可以折叠代码，`Ctrl+Shift+]` 释放。
 前后对比如下图：
 
-![](http://cdn.saymagic.cn/o_19qidredc179u164lua81tn9df99.png)
+![](https://cdnmagic.github.io/pic/o_19qidredc179u164lua81tn9df99.png)
 
-![](http://cdn.saymagic.cn/o_19qidv5iv123h17rnd5b13qo1v5qe.png)
+![](https://cdnmagic.github.io/pic/o_19qidv5iv123h17rnd5b13qo1v5qe.png)
 
 但重启 Sublime 后，折叠效果并不能保存。这就需要 BufferScroll 来为我们保留代码的折叠状态。
 
@@ -178,7 +178,7 @@ Sublime 中，快捷键 `Ctrl+Shift+[` 可以折叠代码，`Ctrl+Shift+]` 释�
 ###18. IMESupport
 解决 Sublime Text 中文输入法不能跟随光标的问题。目前只支持 Windows。
 
-![](http://cdn.saymagic.cn/o_19r47jolk16av8nd1ug71a8b1qc3e.gif)
+![](https://cdnmagic.github.io/pic/o_19r47jolk16av8nd1ug71a8b1qc3e.gif)
 
 
 

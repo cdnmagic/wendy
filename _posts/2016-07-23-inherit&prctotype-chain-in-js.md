@@ -16,7 +16,7 @@ tags: ["JavaScript"]
 
 分享一个神图：
 
-<center>![](http://cdn.saymagic.cn/o_1aom2dgfs16b73c3tpa1ie06s89.jpg)</center>
+<center>![](https://cdnmagic.github.io/pic/o_1aom2dgfs16b73c3tpa1ie06s89.jpg)</center>
 
 ###隐式原型
 

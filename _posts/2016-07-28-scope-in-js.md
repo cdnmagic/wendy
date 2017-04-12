@@ -181,7 +181,7 @@ alert(girl2);	//error
 
 这段代码的作用域链关系如下图：
 
-![](http://cdn.saymagic.cn/o_1ap1bv7vgmni1opo1rhc1cs7178t9.png)
+![](https://cdnmagic.github.io/pic/o_1ap1bv7vgmni1opo1rhc1cs7178t9.png)
 
 图中不同色块分别代表不同的执行环境，内部环境可以通过作用域链访问所有外部环境，但外部不能访问内部的变量和函数。例如，`swapGirl()`作用域链包含`swapGirl()`变量对象、`showGirl()`变量对象、全局变量对象这3个对象；`showGirl()`的作用域链包含它自己的变量对象和全局变量对象这2个对象，它不能访问内部函数`swapGirl()`的执行环境。
 

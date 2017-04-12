@@ -16,7 +16,7 @@ tags: ["css","html"]
 
 举个🌰： 百度首页
 
-<center>![](http://cdn.saymagic.cn/o_1arurutnf10uc19iq118814k01cq29.png)</center>
+<center>![](https://cdnmagic.github.io/pic/o_1arurutnf10uc19iq118814k01cq29.png)</center>
 
 效果： [所有演示均在此地址](http://blog.hardworking.top/example/csslayout/)
 
@@ -43,7 +43,7 @@ tags: ["css","html"]
 
 举个🌰： 腾讯网
 
-<center>![](http://cdn.saymagic.cn/o_1arus6qqu2tcqe7f706pl1d15e.png)</center>
+<center>![](https://cdnmagic.github.io/pic/o_1arus6qqu2tcqe7f706pl1d15e.png)</center>
 
 效果： [所有演示均在此地址](http://blog.hardworking.top/example/csslayout/)
 

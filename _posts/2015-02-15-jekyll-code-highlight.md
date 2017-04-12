@@ -12,11 +12,11 @@ tags: ["Jekyll"]
 
 ### 使用方法
 
-由于[google-code-prettify](https://code.google.com/p/google-code-prettify/)国内访问不了，所以你可以直接下载我准备好的，[点我下载](http://cdn.saymagic.cn/o_19e6ofgp3s931dh1pqd1qcu1u5s9.bz2)
+由于[google-code-prettify](https://code.google.com/p/google-code-prettify/)国内访问不了，所以你可以直接下载我准备好的，[点我下载](https://cdnmagic.github.io/pic/o_19e6ofgp3s931dh1pqd1qcu1u5s9.bz2)
 
 解压之后如下：
 
-![google-code-prettify](http://cdn.saymagic.cn/o_19e6oj65s1v32157eltj1if21qd9e.png)
+![google-code-prettify](https://cdnmagic.github.io/pic/o_19e6oj65s1v32157eltj1if21qd9e.png)
 
 这里面我们需要的是`prettify.css`,`prettify.js`两个文件，在我们的head标签里可以添加如下代码：
 

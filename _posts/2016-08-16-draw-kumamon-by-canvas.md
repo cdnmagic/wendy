@@ -41,7 +41,7 @@ canvas 是 H5 一个超棒的元素，能创造好多漂亮的效果。现在就
 
 JavaScript 脚本是绘制熊本的重要部分。在动手前，我们先找一张成品图进行模仿：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqojfiqd14tv1qqacsf1u2emcc9.jpg)</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqojfiqd14tv1qqacsf1u2emcc9.jpg)</div></center>
 
 这个大体能分成三部分：**背景、圈里的熊、文字**。
 
@@ -137,7 +137,7 @@ paintCircle(ctx, 250, 224, 191, 2, "#fff");
 
 目前效果：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqpbbkh51pcaqpk1cvd34sk5ie.png)</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqpbbkh51pcaqpk1cvd34sk5ie.png)</div></center>
 
 ###熊本熊各器官顺序
 
@@ -188,7 +188,7 @@ paintOval(ctx, 250, 210, 140, 118, 2, "#000");
 
 目前效果：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqpf19r1lch8gu1e4epo9u929.png )</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqpf19r1lch8gu1e4epo9u929.png )</div></center>
 
 ###眉毛
 
@@ -312,7 +312,7 @@ paintCircle(ctx, 366, 227, 34, 2, "rgb(255,0,2)");
 
 完成上述步骤，头部长这样：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqpq5vin1bpdejg10p1rfl1kkl9.png)</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqpq5vin1bpdejg10p1rfl1kkl9.png)</div></center>
 
 ###身体
 
@@ -350,17 +350,17 @@ bearBody(ctx, 128, 241, 245, 40, 334, 140, "#000");
 
 现在熊本熊长这样：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqpvacq71fek1u3he0o1b1lfof9.png)</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqpvacq71fek1u3he0o1b1lfof9.png)</div></center>
 
 改变 bearBody 的调用位置，放在绘制熊头之前：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqpvfp9j1kau1oen12tstv5kpu9.png)</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqpvfp9j1kau1oen12tstv5kpu9.png)</div></center>
 
 在绘制背景的函数`paintBackground()`中加上这样一句`ctx.globalCompositeOperation = "destination-over";`，并把这个函数放在主函数最后调用。
 
 效果为：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqq1q3gf1smi1d8b1qvv15o01bh59.png)</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqq1q3gf1smi1d8b1qvv15o01bh59.png)</div></center>
 
 ###文字
 
@@ -540,7 +540,7 @@ function drawKumamon() {
 
 整体效果：
 
-<center><div class="smPic">![](http://cdn.saymagic.cn/o_1aqq369m11jrs4o4g3o7pe10119.png)</div></center>
+<center><div class="smPic">![](https://cdnmagic.github.io/pic/o_1aqq369m11jrs4o4g3o7pe10119.png)</div></center>
 
 完成！现在已经能接受熊本熊发自灵魂的拷问了——“你为什么不学习？！”
 

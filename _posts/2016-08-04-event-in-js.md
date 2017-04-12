@@ -14,7 +14,7 @@ DOM2 级事件规定的事件流包括三个阶段：事件捕获阶段、处于
 
 举个 🌰，在一个标准的 HTML 页面中点击某个`<div>`元素，触发顺序如下：
 
-![](http://cdn.saymagic.cn/o_1aq1ehll1r6t1ejsnoh10a51de09.jpeg)
+![](https://cdnmagic.github.io/pic/o_1aq1ehll1r6t1ejsnoh10a51de09.jpeg)
 
 DOM 事件流中，`<div>`在捕获阶段不会接收到事件。在处于目标阶段，事件在`<div>`上发生，在事件处理阶段被看成是冒泡阶段的一部分。冒泡阶段，事件又传回文档。
 

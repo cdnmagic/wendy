@@ -26,15 +26,15 @@ tags: ["Sublime Text"]
 
 * 打开 https://app.yinxiang.com/api/DeveloperToken.action ,然后登陆，进入如下界面:
 
-![](http://cdn.saymagic.cn/o_19o8gssn51gtufvp1i6orj8niv9.png)
+![](https://cdnmagic.github.io/pic/o_19o8gssn51gtufvp1i6orj8niv9.png)
 
 * 点击`Revoke your developer token`重新授权应用（若之前没有授权此步可能没有）:
 
-![](http://cdn.saymagic.cn/o_19o8h0mv4el51c3iksbnlj1ef6e.png)
+![](https://cdnmagic.github.io/pic/o_19o8h0mv4el51c3iksbnlj1ef6e.png)
 
 * 点击`Create a developer token`,然后会获得 Developer Token 和 NoteStore URL：
 
-![](http://cdn.saymagic.cn/o_19o8h50f4dvv1r39187i1mrkc0vj.png)
+![](https://cdnmagic.github.io/pic/o_19o8h50f4dvv1r39187i1mrkc0vj.png)
 
 * 记住上面的两个值。
 
@@ -53,11 +53,11 @@ tags: ["Sublime Text"]
 
 接下来我们可以尝试是否授权成功，通过`shift+command+p`打开命令窗口,输入Evernote，就会看见Evernote的许多命令:
 
-![](http://cdn.saymagic.cn/o_19o8hehne194a1iu4krs1vqm162o9.png)
+![](https://cdnmagic.github.io/pic/o_19o8hehne194a1iu4krs1vqm162o9.png)
 
 可以点击`Evernote:list recent notes`,如果看到罗列出最新的笔记，则说明授权成功，我们就可以开始后面的工作
 
-![](http://cdn.saymagic.cn/o_19o8hfgcb1siubvh1ghr1qnn1uvue.png)
+![](https://cdnmagic.github.io/pic/o_19o8hfgcb1siubvh1ghr1qnn1uvue.png)
 
 ## 引入模板
 
@@ -76,25 +76,25 @@ tags: ["Sublime Text"]
 
 接下来将`Default.sublime-commands`、`Default.sublime-keymap`、`Main.sublime-menu`、`sublime-tmpl.py`几个文件按照其本来的格式进行修改，例如，`Default.sublime-keymap`文件代表快捷键，我将此文件修改如下：
 
-![](http://cdn.saymagic.cn/o_19oa03aec1l0bsqa12uij12119.png)
+![](https://cdnmagic.github.io/pic/o_19oa03aec1l0bsqa12uij12119.png)
 
 此时，我只需按下`ctrl+alt+m`,即可按照模板新建一个md文件:
 
-![](http://cdn.saymagic.cn/o_19oa06snp1l4vm1s13261i67747e.png)
+![](https://cdnmagic.github.io/pic/o_19oa06snp1l4vm1s13261i67747e.png)
 
 现在，我们可以`ctrl+s`进行保存为md文件，`MarkDownEditing`插件就会将此md文件进行高亮显示。
 
-![](http://cdn.saymagic.cn/o_19oa0e8ol3mji5h19h11gkrbiej.png)
+![](https://cdnmagic.github.io/pic/o_19oa0e8ol3mji5h19h11gkrbiej.png)
 
 ## 效果预览
 
 现在我们可以在Sublime中高亮我们的md文档了，但是我们怎么预览呢？此时就需要我们的`MarkDownPreview`插件登场了，该插件没有提供默认的快捷键，但提供了命令模式，打开命令模式,搜索`markdownpreview`，然后选择`MarkDownPreview preview in browser`：
 
-![](http://cdn.saymagic.cn/o_19oa0tf0o18tju571bma1fjah0ge.png)
+![](https://cdnmagic.github.io/pic/o_19oa0tf0o18tju571bma1fjah0ge.png)
 
 接着，选择你希望显示的模式，比如github,然后浏览器就会打开然后显示此md文件。
 
-![](http://cdn.saymagic.cn/o_19oa6dob2mpeg8v13j81ckpap9.png)
+![](https://cdnmagic.github.io/pic/o_19oa6dob2mpeg8v13j81ckpap9.png)
 
 需要提的一点是，当我们再次修改md文件，我们就无需通过上述命令来查看效果，直接刷新刚刚的页面即可。
 
@@ -104,15 +104,15 @@ tags: ["Sublime Text"]
 
 * 打开命令模式，搜索`ese`,就会找到`Evernote send to Evernote as new note`命令:
 
-![](http://cdn.saymagic.cn/o_19oa1h7j41a5t11t0usqnbsda9e.png)
+![](https://cdnmagic.github.io/pic/o_19oa1h7j41a5t11t0usqnbsda9e.png)
  
 点击后会显示让我们选择存放在哪个笔记本，我们选择后就会自动存放到我们的印象笔记中，但此时你会发现一个问题，文件不高亮显示了，别急，此时文件按照`Evernote`格式显示，我们改回`MarkDown`文件即可,更改的地方在编辑器右下角:
 
-![](http://cdn.saymagic.cn/o_19oa1s2bi1dsh1qur1co7nijqnbj.png)
+![](https://cdnmagic.github.io/pic/o_19oa1s2bi1dsh1qur1co7nijqnbj.png)
 
 我们再去我们的印象笔记看一下，你会发现存储在印象笔记中的格式已经是排版过的效果，很赞！
 
-![](http://cdn.saymagic.cn/o_19oa1ublqn5dfeo1f2f157lcok9.png)
+![](https://cdnmagic.github.io/pic/o_19oa1ublqn5dfeo1f2f157lcok9.png)
 
 ## 保存到Git仓库
 

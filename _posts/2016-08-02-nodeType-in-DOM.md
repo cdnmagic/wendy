@@ -27,7 +27,7 @@ DOM（文档对象模型）是针对 HTML 和 XML 文档的一个 API。描绘�
 
 这段代码的层次结构表现为：
 
-![](http://cdn.saymagic.cn/o_1apsfda5311ce4v8jkt1c081ohv9.jpg)
+![](https://cdnmagic.github.io/pic/o_1apsfda5311ce4v8jkt1c081ohv9.jpg)
 
 JavaScript 所有节点类型都继承自 Node 类型，该类型在除 IE 外的所有浏览器都可以访问到，所有节点类型都共享相同的基本属性和方法。
 

@@ -70,7 +70,7 @@ ASCII（American Standard Code for Information Interchange，美国信息交换�
 
 GBK编码是对GB2312的扩展，主要增加了对繁体字的支持，它是兼容 GB2312的，只不过GB2312是国家认证的编码，血统比较纯正，而GBK属于野路子，不过如果不考虑国际化，GBK对于中文的项目足够了。GB2312和GBK都属于中文编码，当然还有一些其它的中文编码，下面有一张图可以很清晰的描述这些编码的关系：
 
-![http://cdn.saymagic.cn/141015174019.jpg](http://cdn.saymagic.cn/141015174019.jpg)
+![https://cdnmagic.github.io/pic/141015174019.jpg](https://cdnmagic.github.io/pic/141015174019.jpg)
 
 ###  Unicode
 

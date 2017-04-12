@@ -55,11 +55,11 @@ location 是最有用的 BOM 对象之一，它既是 window 对象的属性，�
 
   有个这样的网址1☞<code class="txt">https://github.com/jnotnull/JavaScript-Sturcture/wiki/Angular-2.0-%E5%92%8C-1.x%E6%AF%94%E8%BE%83#dom</code>，它的各 location 属性见下图：
 
-  ![](http://cdn.saymagic.cn/o_1apii51m71omu10841rp21paijl39.png)
+  ![](https://cdnmagic.github.io/pic/o_1apii51m71omu10841rp21paijl39.png)
 
 网址2☞<code class="txt">https://github.com/jnotnull/JavaScript-Sturcture/search?utf8=%E2%9C%93&q=angular</code>
 
-![](http://cdn.saymagic.cn/o_1apiid1i814mr447at8an4v1oe.png)
+![](https://cdnmagic.github.io/pic/o_1apiid1i814mr447at8an4v1oe.png)
 
   详细表格见[此处](http://blog.hardworking.top/example/location/)。
 

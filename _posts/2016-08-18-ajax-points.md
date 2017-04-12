@@ -12,11 +12,11 @@ tags: ["Ajax","JavaScript"]
 
 ###同步
 
-![](http://cdn.saymagic.cn/o_1ar5cmgh31ofl58ep9nnqvnf39.jpg)
+![](https://cdnmagic.github.io/pic/o_1ar5cmgh31ofl58ep9nnqvnf39.jpg)
 
 ###异步
 
-![](http://cdn.saymagic.cn/o_1ar5cnifc1icuhu81ulqs5l19goj.jpg)
+![](https://cdnmagic.github.io/pic/o_1ar5cnifc1icuhu81ulqs5l19goj.jpg)
 
 ###HTTP请求
 
@@ -291,7 +291,7 @@ $(document).ready(function() {
 
 先看看一个域名地址的组成：
 
-![](http://cdn.saymagic.cn/o_1ar855up61k963cgpvv147017goe.jpg)
+![](https://cdnmagic.github.io/pic/o_1ar855up61k963cgpvv147017goe.jpg)
 
 当（图中标红部分）协议、子域名、主域名、端口号任意一个不同时，都算作不同域。不同域之间相互请求资源，叫“跨域”。
 
@@ -327,4 +327,4 @@ header('Access-Control-Allow-Methods:POST,GET');
 
 查看某个网址的资源是否允许跨域访问，可以通过开发者工具打开`Network`标签，刷新页面，查看指定资源的请求头中的`Access-Control-Allow-Origin`属性。像这样 ↓↓：
 
-![](http://cdn.saymagic.cn/o_1arb6rc2f1bengtm1v8v1s111ehp9.png)
+![](https://cdnmagic.github.io/pic/o_1arb6rc2f1bengtm1v8v1s111ehp9.png)

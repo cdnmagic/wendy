@@ -16,7 +16,7 @@ tags: ["HTML5"]
 
 在浏览器里新建一个标签页输入网址`data:text/html, \<html contenteditable\>`你会发现你的浏览界面变成了一个简单的文本编辑器。
 
-![image](http://cdn.saymagic.cn/141030232847.28.07.png)
+![image](https://cdnmagic.github.io/pic/141030232847.28.07.png)
 
 
 往往有了简单的东西之后，就会有大神把它改造成神器，比如，用Chrome或者Safari打开下面的超长链接，
@@ -26,7 +26,7 @@ tags: ["HTML5"]
 
 你会得到一个高亮python代码的编辑器，效果如下：
 	
-![image](http://cdn.saymagic.cn/141030233338.33.04.png)
+![image](https://cdnmagic.github.io/pic/141030233338.33.04.png)
 
 如果想改造成支持其他语言语法高亮的，可把 上面链接里的ace/mode/python 替换为：
  
@@ -41,11 +41,11 @@ tags: ["HTML5"]
 
 有了上面的基础，我们可以做一点更有意思的东西，打开chrome的console控制台。输入`document.body.contentEditable='true';`
 
-![image](http://cdn.saymagic.cn/141030234522.gif)
+![image](https://cdnmagic.github.io/pic/141030234522.gif)
 
 当console返回true后，说明你可以对当前的页面做任意的修改了。恶搞如下：
 
-![image](http://cdn.saymagic.cn/141030234917.gif)
+![image](https://cdnmagic.github.io/pic/141030234917.gif)
 
 这比起以前需要在chrome的控制台里先点击小的搜索按钮锁定内容后再去修改简单很多了。
 
@@ -65,7 +65,7 @@ tags: ["HTML5"]
  
  效果如下：
  
-![image](http://cdn.saymagic.cn/141031000024.gif)
+![image](https://cdnmagic.github.io/pic/141031000024.gif)
 
 如果想让网页只旋转10度，则可以这样写：
 

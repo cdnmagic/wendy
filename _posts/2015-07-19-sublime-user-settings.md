@@ -91,7 +91,7 @@ tags: ["Sublime Text3"]
 
 默认版本基于 Base16 Ocean Dark 配色方案。
 
-![](http://cdn.saymagic.cn/o_19qj707jk13d714i2dl1ao81c0q9.png)
+![](https://cdnmagic.github.io/pic/o_19qj707jk13d714i2dl1ao81c0q9.png)
 
 设置：
 
@@ -105,7 +105,7 @@ tags: ["Sublime Text3"]
 
 浅色版本基于 Base16 Ocean Light 配色方案。
 
-![](http://cdn.saymagic.cn/o_19qj75iks1rj1ejptsj18pv1hj4e.png)
+![](https://cdnmagic.github.io/pic/o_19qj75iks1rj1ejptsj18pv1hj4e.png)
 
 设置：
 
@@ -118,7 +118,7 @@ tags: ["Sublime Text3"]
 
 深色版本基于 Base16 Eighties Dark 配色方案。
 
-![](http://cdn.saymagic.cn/o_19qj7b97eeej1dt8c461c0q6ni9.png)
+![](https://cdnmagic.github.io/pic/o_19qj7b97eeej1dt8c461c0q6ni9.png)
 
 设置：
 
