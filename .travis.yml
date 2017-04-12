@@ -1,0 +1,22 @@
+language: ruby
+rvm:
+- 2.3.1
+
+script:
+- bundle exec jekyll build
+
+after_success:
+- rm -rf .git
+- cd _site
+- touch .nojekyll
+- git init
+- git config user.name "magic"
+- git config user.email ${EMAIL}
+- git add -A .
+- git commit -m "Update Blog  - ${TRAVIS_BUILD_NUMBER} times"
+- git push --force "https://${ACCESS_TOKEN}@${REPO_TARGET_PATH}" HEAD:${REPO_TARGET_BRANCH}
+
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
